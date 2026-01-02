@@ -1,0 +1,7 @@
+streamlit~=1.52.1
+pandas~=2.3.3
+protobuf~=5.29.5
+python-dotenv~=1.2.1
+faiss-cpu~=1.13.1
+numpy~=2.3.5
+sentence-transformers~=5.2.0

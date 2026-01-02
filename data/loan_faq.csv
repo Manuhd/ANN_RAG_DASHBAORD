@@ -1,0 +1,249 @@
+id,question,answer
+1,What is a home loan?,A home loan is a secured loan used to buy or construct a residential property.
+2,What is a personal loan?,A personal loan is an unsecured loan used for personal financial needs.
+3,What is an education loan?,"An education loan helps students finance higher studies, often with deferred repayment."
+4,What is a car loan?,A car loan is a secured loan taken to purchase a vehicle.
+5,What is EMI?,EMI is the fixed monthly amount a borrower pays to repay a loan.
+6,What is loan tenure?,Loan tenure is the total duration agreed upon for repaying a loan.
+7,What is a fixed interest rate?,A fixed interest rate remains unchanged throughout the loan tenure.
+8,What is a floating interest rate?,A floating interest rate varies based on market benchmark rates.
+9,What is credit score?,A credit score reflects an individual’s creditworthiness based on repayment history.
+10,What is credit report?,A credit report is a detailed record of an individual’s borrowing and repayment behavior.
+11,What is collateral?,Collateral is an asset pledged to secure a loan.
+12,What is unsecured loan?,An unsecured loan does not require any collateral from the borrower.
+13,What is secured loan?,A secured loan requires the borrower to pledge an asset as security.
+14,What is loan foreclosure?,Loan foreclosure is paying off the entire loan before its scheduled end date.
+15,What is prepayment penalty?,A prepayment penalty is a charge for repaying a loan earlier than agreed.
+16,What is loan default?,Loan default occurs when scheduled repayments are not made on time.
+17,What is moratorium period?,A moratorium period allows temporary suspension of loan repayments.
+18,What is principal amount?,Principal is the original amount borrowed from the lender.
+19,What is interest amount?,Interest is the cost charged by the lender for lending money.
+20,What is loan disbursement?,Loan disbursement is the release of approved loan funds to the borrower.
+21,What is a guarantor?,A guarantor agrees to repay the loan if the borrower fails to do so.
+22,What is co-applicant?,A co-applicant shares responsibility for loan repayment.
+23,What is balance transfer?,Balance transfer allows shifting a loan to another lender with better terms.
+24,What is loan refinancing?,Loan refinancing replaces an existing loan with a new one under revised conditions.
+25,What is processing fee?,A processing fee is charged by lenders to cover loan administration costs.
+26,What is loan sanction?,Loan sanction is the lender’s formal approval of a loan amount.
+27,What is loan eligibility?,Loan eligibility determines how much a borrower can obtain based on income and credit profile.
+28,What is debt-to-income ratio?,Debt-to-income ratio compares monthly debt payments to income.
+29,What is amortization?,Amortization is the gradual repayment of loan principal over time.
+30,What is loan restructuring?,Loan restructuring modifies repayment terms to help borrowers manage debt.
+31,What is overdraft facility?,An overdraft allows withdrawal beyond account balance up to a limit.
+32,What is line of credit?,A line of credit allows borrowers to withdraw funds up to a predefined limit.
+33,What is interest-only loan?,An interest-only loan requires paying only interest for an initial period.
+34,What is balloon payment?,A balloon payment is a large final payment at loan maturity.
+35,What is loan EMI bounce?,EMI bounce occurs when a scheduled installment fails due to insufficient funds.
+36,What is NPA?,NPA refers to a loan where repayments are overdue beyond a set period.
+37,What is CIBIL score?,CIBIL score is an Indian credit score used by lenders to assess risk.
+38,What is loan top-up?,A loan top-up allows borrowing additional funds on an existing loan.
+39,What is partial disbursement?,Partial disbursement releases loan funds in stages.
+40,What is repayment schedule?,A repayment schedule lists installment amounts and due dates.
+41,What is loan statement?,"A loan statement details payments, interest, and outstanding balance."
+42,What is interest capitalization?,Interest capitalization adds unpaid interest to the principal amount.
+43,What is loan waiver?,A loan waiver cancels part or all of the outstanding loan amount.
+44,What is subvention scheme?,A subvention scheme reduces interest burden for borrowers temporarily.
+45,What is margin money?,Margin money is the borrower’s contribution towards the purchase cost.
+46,What is LTV ratio?,Loan-to-value ratio compares loan amount to asset value.
+47,What is penal interest?,Penal interest is charged for delayed loan repayments.
+48,What is credit utilization?,Credit utilization measures used credit against available limit.
+49,What is microfinance? (financial topic 1),Microfinance provides small loans to individuals who lack access to traditional banking.
+50,What is peer-to-peer lending? (financial topic 2),Peer-to-peer lending connects borrowers directly with individual lenders through platforms.
+51,What is payday loan? (financial topic 3),"A payday loan is a short-term, high-interest loan due on the borrower’s next payday."
+52,What is gold loan? (financial topic 4),A gold loan is a secured loan where gold jewelry is pledged as collateral.
+53,What is business loan? (financial topic 5),A business loan provides capital to start or expand a business.
+54,What is working capital loan? (financial topic 6),A working capital loan finances daily operational expenses of a business.
+55,What is invoice financing? (financial topic 7),Invoice financing allows businesses to borrow against unpaid invoices.
+56,What is term loan? (financial topic 8),A term loan is repaid over a fixed schedule with regular payments.
+57,What is bridge loan? (financial topic 9),A bridge loan provides short-term funding until permanent financing is arranged.
+58,What is construction loan? (financial topic 10),A construction loan funds building projects and is disbursed in stages.
+59,What is refinance rate? (financial topic 11),The refinance rate applies when replacing an existing loan with a new one.
+60,What is interest subvention? (financial topic 12),Interest subvention reduces interest burden through government support.
+61,What is student moratorium? (financial topic 13),Student moratorium allows delayed repayment until education completion.
+62,What is debt consolidation? (financial topic 14),Debt consolidation combines multiple debts into a single loan.
+63,What is revolving credit? (financial topic 15),Revolving credit allows repeated borrowing up to a credit limit.
+64,What is cash credit? (financial topic 16),Cash credit is a short-term loan facility for businesses.
+65,What is credit appraisal? (financial topic 17),Credit appraisal evaluates a borrower’s repayment capacity.
+66,What is underwriting? (financial topic 18),Underwriting assesses risk before approving a loan.
+67,What is loan syndication? (financial topic 19),Loan syndication involves multiple lenders funding a single borrower.
+68,What is mezzanine financing? (financial topic 20),Mezzanine financing is a hybrid of debt and equity funding.
+69,What is microfinance? (financial topic 21),Microfinance provides small loans to individuals who lack access to traditional banking.
+70,What is peer-to-peer lending? (financial topic 22),Peer-to-peer lending connects borrowers directly with individual lenders through platforms.
+71,What is payday loan? (financial topic 23),"A payday loan is a short-term, high-interest loan due on the borrower’s next payday."
+72,What is gold loan? (financial topic 24),A gold loan is a secured loan where gold jewelry is pledged as collateral.
+73,What is business loan? (financial topic 25),A business loan provides capital to start or expand a business.
+74,What is working capital loan? (financial topic 26),A working capital loan finances daily operational expenses of a business.
+75,What is invoice financing? (financial topic 27),Invoice financing allows businesses to borrow against unpaid invoices.
+76,What is term loan? (financial topic 28),A term loan is repaid over a fixed schedule with regular payments.
+77,What is bridge loan? (financial topic 29),A bridge loan provides short-term funding until permanent financing is arranged.
+78,What is construction loan? (financial topic 30),A construction loan funds building projects and is disbursed in stages.
+79,What is refinance rate? (financial topic 31),The refinance rate applies when replacing an existing loan with a new one.
+80,What is interest subvention? (financial topic 32),Interest subvention reduces interest burden through government support.
+81,What is student moratorium? (financial topic 33),Student moratorium allows delayed repayment until education completion.
+82,What is debt consolidation? (financial topic 34),Debt consolidation combines multiple debts into a single loan.
+83,What is revolving credit? (financial topic 35),Revolving credit allows repeated borrowing up to a credit limit.
+84,What is cash credit? (financial topic 36),Cash credit is a short-term loan facility for businesses.
+85,What is credit appraisal? (financial topic 37),Credit appraisal evaluates a borrower’s repayment capacity.
+86,What is underwriting? (financial topic 38),Underwriting assesses risk before approving a loan.
+87,What is loan syndication? (financial topic 39),Loan syndication involves multiple lenders funding a single borrower.
+88,What is mezzanine financing? (financial topic 40),Mezzanine financing is a hybrid of debt and equity funding.
+89,What is microfinance? (financial topic 41),Microfinance provides small loans to individuals who lack access to traditional banking.
+90,What is peer-to-peer lending? (financial topic 42),Peer-to-peer lending connects borrowers directly with individual lenders through platforms.
+91,What is payday loan? (financial topic 43),"A payday loan is a short-term, high-interest loan due on the borrower’s next payday."
+92,What is gold loan? (financial topic 44),A gold loan is a secured loan where gold jewelry is pledged as collateral.
+93,What is business loan? (financial topic 45),A business loan provides capital to start or expand a business.
+94,What is working capital loan? (financial topic 46),A working capital loan finances daily operational expenses of a business.
+95,What is invoice financing? (financial topic 47),Invoice financing allows businesses to borrow against unpaid invoices.
+96,What is term loan? (financial topic 48),A term loan is repaid over a fixed schedule with regular payments.
+97,What is bridge loan? (financial topic 49),A bridge loan provides short-term funding until permanent financing is arranged.
+98,What is construction loan? (financial topic 50),A construction loan funds building projects and is disbursed in stages.
+99,What is refinance rate? (financial topic 51),The refinance rate applies when replacing an existing loan with a new one.
+100,What is interest subvention? (financial topic 52),Interest subvention reduces interest burden through government support.
+101,What is student moratorium? (financial topic 53),Student moratorium allows delayed repayment until education completion.
+102,What is debt consolidation? (financial topic 54),Debt consolidation combines multiple debts into a single loan.
+103,What is revolving credit? (financial topic 55),Revolving credit allows repeated borrowing up to a credit limit.
+104,What is cash credit? (financial topic 56),Cash credit is a short-term loan facility for businesses.
+105,What is credit appraisal? (financial topic 57),Credit appraisal evaluates a borrower’s repayment capacity.
+106,What is underwriting? (financial topic 58),Underwriting assesses risk before approving a loan.
+107,What is loan syndication? (financial topic 59),Loan syndication involves multiple lenders funding a single borrower.
+108,What is mezzanine financing? (financial topic 60),Mezzanine financing is a hybrid of debt and equity funding.
+109,What is microfinance? (financial topic 61),Microfinance provides small loans to individuals who lack access to traditional banking.
+110,What is peer-to-peer lending? (financial topic 62),Peer-to-peer lending connects borrowers directly with individual lenders through platforms.
+111,What is payday loan? (financial topic 63),"A payday loan is a short-term, high-interest loan due on the borrower’s next payday."
+112,What is gold loan? (financial topic 64),A gold loan is a secured loan where gold jewelry is pledged as collateral.
+113,What is business loan? (financial topic 65),A business loan provides capital to start or expand a business.
+114,What is working capital loan? (financial topic 66),A working capital loan finances daily operational expenses of a business.
+115,What is invoice financing? (financial topic 67),Invoice financing allows businesses to borrow against unpaid invoices.
+116,What is term loan? (financial topic 68),A term loan is repaid over a fixed schedule with regular payments.
+117,What is bridge loan? (financial topic 69),A bridge loan provides short-term funding until permanent financing is arranged.
+118,What is construction loan? (financial topic 70),A construction loan funds building projects and is disbursed in stages.
+119,What is refinance rate? (financial topic 71),The refinance rate applies when replacing an existing loan with a new one.
+120,What is interest subvention? (financial topic 72),Interest subvention reduces interest burden through government support.
+121,What is student moratorium? (financial topic 73),Student moratorium allows delayed repayment until education completion.
+122,What is debt consolidation? (financial topic 74),Debt consolidation combines multiple debts into a single loan.
+123,What is revolving credit? (financial topic 75),Revolving credit allows repeated borrowing up to a credit limit.
+124,What is cash credit? (financial topic 76),Cash credit is a short-term loan facility for businesses.
+125,What is credit appraisal? (financial topic 77),Credit appraisal evaluates a borrower’s repayment capacity.
+126,What is underwriting? (financial topic 78),Underwriting assesses risk before approving a loan.
+127,What is loan syndication? (financial topic 79),Loan syndication involves multiple lenders funding a single borrower.
+128,What is mezzanine financing? (financial topic 80),Mezzanine financing is a hybrid of debt and equity funding.
+129,What is microfinance? (financial topic 81),Microfinance provides small loans to individuals who lack access to traditional banking.
+130,What is peer-to-peer lending? (financial topic 82),Peer-to-peer lending connects borrowers directly with individual lenders through platforms.
+131,What is payday loan? (financial topic 83),"A payday loan is a short-term, high-interest loan due on the borrower’s next payday."
+132,What is gold loan? (financial topic 84),A gold loan is a secured loan where gold jewelry is pledged as collateral.
+133,What is business loan? (financial topic 85),A business loan provides capital to start or expand a business.
+134,What is working capital loan? (financial topic 86),A working capital loan finances daily operational expenses of a business.
+135,What is invoice financing? (financial topic 87),Invoice financing allows businesses to borrow against unpaid invoices.
+136,What is term loan? (financial topic 88),A term loan is repaid over a fixed schedule with regular payments.
+137,What is bridge loan? (financial topic 89),A bridge loan provides short-term funding until permanent financing is arranged.
+138,What is construction loan? (financial topic 90),A construction loan funds building projects and is disbursed in stages.
+139,What is refinance rate? (financial topic 91),The refinance rate applies when replacing an existing loan with a new one.
+140,What is interest subvention? (financial topic 92),Interest subvention reduces interest burden through government support.
+141,What is student moratorium? (financial topic 93),Student moratorium allows delayed repayment until education completion.
+142,What is debt consolidation? (financial topic 94),Debt consolidation combines multiple debts into a single loan.
+143,What is revolving credit? (financial topic 95),Revolving credit allows repeated borrowing up to a credit limit.
+144,What is cash credit? (financial topic 96),Cash credit is a short-term loan facility for businesses.
+145,What is credit appraisal? (financial topic 97),Credit appraisal evaluates a borrower’s repayment capacity.
+146,What is underwriting? (financial topic 98),Underwriting assesses risk before approving a loan.
+147,What is loan syndication? (financial topic 99),Loan syndication involves multiple lenders funding a single borrower.
+148,What is mezzanine financing? (financial topic 100),Mezzanine financing is a hybrid of debt and equity funding.
+149,What is microfinance? (financial topic 101),Microfinance provides small loans to individuals who lack access to traditional banking.
+150,What is peer-to-peer lending? (financial topic 102),Peer-to-peer lending connects borrowers directly with individual lenders through platforms.
+151,What is payday loan? (financial topic 103),"A payday loan is a short-term, high-interest loan due on the borrower’s next payday."
+152,What is gold loan? (financial topic 104),A gold loan is a secured loan where gold jewelry is pledged as collateral.
+153,What is business loan? (financial topic 105),A business loan provides capital to start or expand a business.
+154,What is working capital loan? (financial topic 106),A working capital loan finances daily operational expenses of a business.
+155,What is invoice financing? (financial topic 107),Invoice financing allows businesses to borrow against unpaid invoices.
+156,What is term loan? (financial topic 108),A term loan is repaid over a fixed schedule with regular payments.
+157,What is bridge loan? (financial topic 109),A bridge loan provides short-term funding until permanent financing is arranged.
+158,What is construction loan? (financial topic 110),A construction loan funds building projects and is disbursed in stages.
+159,What is refinance rate? (financial topic 111),The refinance rate applies when replacing an existing loan with a new one.
+160,What is interest subvention? (financial topic 112),Interest subvention reduces interest burden through government support.
+161,What is student moratorium? (financial topic 113),Student moratorium allows delayed repayment until education completion.
+162,What is debt consolidation? (financial topic 114),Debt consolidation combines multiple debts into a single loan.
+163,What is revolving credit? (financial topic 115),Revolving credit allows repeated borrowing up to a credit limit.
+164,What is cash credit? (financial topic 116),Cash credit is a short-term loan facility for businesses.
+165,What is credit appraisal? (financial topic 117),Credit appraisal evaluates a borrower’s repayment capacity.
+166,What is underwriting? (financial topic 118),Underwriting assesses risk before approving a loan.
+167,What is loan syndication? (financial topic 119),Loan syndication involves multiple lenders funding a single borrower.
+168,What is mezzanine financing? (financial topic 120),Mezzanine financing is a hybrid of debt and equity funding.
+169,What is microfinance? (financial topic 121),Microfinance provides small loans to individuals who lack access to traditional banking.
+170,What is peer-to-peer lending? (financial topic 122),Peer-to-peer lending connects borrowers directly with individual lenders through platforms.
+171,What is payday loan? (financial topic 123),"A payday loan is a short-term, high-interest loan due on the borrower’s next payday."
+172,What is gold loan? (financial topic 124),A gold loan is a secured loan where gold jewelry is pledged as collateral.
+173,What is business loan? (financial topic 125),A business loan provides capital to start or expand a business.
+174,What is working capital loan? (financial topic 126),A working capital loan finances daily operational expenses of a business.
+175,What is invoice financing? (financial topic 127),Invoice financing allows businesses to borrow against unpaid invoices.
+176,What is term loan? (financial topic 128),A term loan is repaid over a fixed schedule with regular payments.
+177,What is bridge loan? (financial topic 129),A bridge loan provides short-term funding until permanent financing is arranged.
+178,What is construction loan? (financial topic 130),A construction loan funds building projects and is disbursed in stages.
+179,What is refinance rate? (financial topic 131),The refinance rate applies when replacing an existing loan with a new one.
+180,What is interest subvention? (financial topic 132),Interest subvention reduces interest burden through government support.
+181,What is student moratorium? (financial topic 133),Student moratorium allows delayed repayment until education completion.
+182,What is debt consolidation? (financial topic 134),Debt consolidation combines multiple debts into a single loan.
+183,What is revolving credit? (financial topic 135),Revolving credit allows repeated borrowing up to a credit limit.
+184,What is cash credit? (financial topic 136),Cash credit is a short-term loan facility for businesses.
+185,What is credit appraisal? (financial topic 137),Credit appraisal evaluates a borrower’s repayment capacity.
+186,What is underwriting? (financial topic 138),Underwriting assesses risk before approving a loan.
+187,What is loan syndication? (financial topic 139),Loan syndication involves multiple lenders funding a single borrower.
+188,What is mezzanine financing? (financial topic 140),Mezzanine financing is a hybrid of debt and equity funding.
+189,What is microfinance? (financial topic 141),Microfinance provides small loans to individuals who lack access to traditional banking.
+190,What is peer-to-peer lending? (financial topic 142),Peer-to-peer lending connects borrowers directly with individual lenders through platforms.
+191,What is payday loan? (financial topic 143),"A payday loan is a short-term, high-interest loan due on the borrower’s next payday."
+192,What is gold loan? (financial topic 144),A gold loan is a secured loan where gold jewelry is pledged as collateral.
+193,What is business loan? (financial topic 145),A business loan provides capital to start or expand a business.
+194,What is working capital loan? (financial topic 146),A working capital loan finances daily operational expenses of a business.
+195,What is invoice financing? (financial topic 147),Invoice financing allows businesses to borrow against unpaid invoices.
+196,What is term loan? (financial topic 148),A term loan is repaid over a fixed schedule with regular payments.
+197,What is bridge loan? (financial topic 149),A bridge loan provides short-term funding until permanent financing is arranged.
+198,What is construction loan? (financial topic 150),A construction loan funds building projects and is disbursed in stages.
+199,What is refinance rate? (financial topic 151),The refinance rate applies when replacing an existing loan with a new one.
+200,What is interest subvention? (financial topic 152),Interest subvention reduces interest burden through government support.
+201,What is student moratorium? (financial topic 153),Student moratorium allows delayed repayment until education completion.
+202,What is debt consolidation? (financial topic 154),Debt consolidation combines multiple debts into a single loan.
+203,What is revolving credit? (financial topic 155),Revolving credit allows repeated borrowing up to a credit limit.
+204,What is cash credit? (financial topic 156),Cash credit is a short-term loan facility for businesses.
+205,What is credit appraisal? (financial topic 157),Credit appraisal evaluates a borrower’s repayment capacity.
+206,What is underwriting? (financial topic 158),Underwriting assesses risk before approving a loan.
+207,What is loan syndication? (financial topic 159),Loan syndication involves multiple lenders funding a single borrower.
+208,What is mezzanine financing? (financial topic 160),Mezzanine financing is a hybrid of debt and equity funding.
+209,What is microfinance? (financial topic 161),Microfinance provides small loans to individuals who lack access to traditional banking.
+210,What is peer-to-peer lending? (financial topic 162),Peer-to-peer lending connects borrowers directly with individual lenders through platforms.
+211,What is payday loan? (financial topic 163),"A payday loan is a short-term, high-interest loan due on the borrower’s next payday."
+212,What is gold loan? (financial topic 164),A gold loan is a secured loan where gold jewelry is pledged as collateral.
+213,What is business loan? (financial topic 165),A business loan provides capital to start or expand a business.
+214,What is working capital loan? (financial topic 166),A working capital loan finances daily operational expenses of a business.
+215,What is invoice financing? (financial topic 167),Invoice financing allows businesses to borrow against unpaid invoices.
+216,What is term loan? (financial topic 168),A term loan is repaid over a fixed schedule with regular payments.
+217,What is bridge loan? (financial topic 169),A bridge loan provides short-term funding until permanent financing is arranged.
+218,What is construction loan? (financial topic 170),A construction loan funds building projects and is disbursed in stages.
+219,What is refinance rate? (financial topic 171),The refinance rate applies when replacing an existing loan with a new one.
+220,What is interest subvention? (financial topic 172),Interest subvention reduces interest burden through government support.
+221,What is student moratorium? (financial topic 173),Student moratorium allows delayed repayment until education completion.
+222,What is debt consolidation? (financial topic 174),Debt consolidation combines multiple debts into a single loan.
+223,What is revolving credit? (financial topic 175),Revolving credit allows repeated borrowing up to a credit limit.
+224,What is cash credit? (financial topic 176),Cash credit is a short-term loan facility for businesses.
+225,What is credit appraisal? (financial topic 177),Credit appraisal evaluates a borrower’s repayment capacity.
+226,What is underwriting? (financial topic 178),Underwriting assesses risk before approving a loan.
+227,What is loan syndication? (financial topic 179),Loan syndication involves multiple lenders funding a single borrower.
+228,What is mezzanine financing? (financial topic 180),Mezzanine financing is a hybrid of debt and equity funding.
+229,What is microfinance? (financial topic 181),Microfinance provides small loans to individuals who lack access to traditional banking.
+230,What is peer-to-peer lending? (financial topic 182),Peer-to-peer lending connects borrowers directly with individual lenders through platforms.
+231,What is payday loan? (financial topic 183),"A payday loan is a short-term, high-interest loan due on the borrower’s next payday."
+232,What is gold loan? (financial topic 184),A gold loan is a secured loan where gold jewelry is pledged as collateral.
+233,What is business loan? (financial topic 185),A business loan provides capital to start or expand a business.
+234,What is working capital loan? (financial topic 186),A working capital loan finances daily operational expenses of a business.
+235,What is invoice financing? (financial topic 187),Invoice financing allows businesses to borrow against unpaid invoices.
+236,What is term loan? (financial topic 188),A term loan is repaid over a fixed schedule with regular payments.
+237,What is bridge loan? (financial topic 189),A bridge loan provides short-term funding until permanent financing is arranged.
+238,What is construction loan? (financial topic 190),A construction loan funds building projects and is disbursed in stages.
+239,What is refinance rate? (financial topic 191),The refinance rate applies when replacing an existing loan with a new one.
+240,What is interest subvention? (financial topic 192),Interest subvention reduces interest burden through government support.
+241,What is student moratorium? (financial topic 193),Student moratorium allows delayed repayment until education completion.
+242,What is debt consolidation? (financial topic 194),Debt consolidation combines multiple debts into a single loan.
+243,What is revolving credit? (financial topic 195),Revolving credit allows repeated borrowing up to a credit limit.
+244,What is cash credit? (financial topic 196),Cash credit is a short-term loan facility for businesses.
+245,What is credit appraisal? (financial topic 197),Credit appraisal evaluates a borrower’s repayment capacity.
+246,What is underwriting? (financial topic 198),Underwriting assesses risk before approving a loan.
+247,What is loan syndication? (financial topic 199),Loan syndication involves multiple lenders funding a single borrower.
+248,What is mezzanine financing? (financial topic 200),Mezzanine financing is a hybrid of debt and equity funding.
