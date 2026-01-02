@@ -2,7 +2,6 @@
 
 ## ANN-Parameter-Controlled RAG System
 
-### Hallucination Reduction & Cost-Aware Retrieval
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system where
 **Approximate Nearest Neighbor (ANN) parameters** are explicitly controlled to
@@ -12,7 +11,7 @@ and response quality.
 
 ---
 
-## 🎯 Why ANN Parameter Control Matters
+## Why ANN Parameter Control Matters
 
 In large-scale RAG systems:
 
@@ -24,30 +23,34 @@ tunable, and explainable** instead of being a black box.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
-rag-system/
+ANN_RAG_DASHBOARD/
 ├── data/
 │   └── loan_faq.csv
-├── ingest.py                  # Offline embedding & index build
-├── retriever.py               # ANN-based vector search
+├── logs/
+│   └── qa_logs.csv            # Query, recall & cost logs
+├── ingest.py                  # Offline embedding + IVF index build
+├── retriever.py               # IVF ANN retrieval
+├── recall.py                  # Recall measurement logic
 ├── reranker.py                # Re-ranking for grounding
 ├── generator.py               # LLM answer generation
 ├── self_corrector.py          # Hallucination mitigation
-├── metrics.py                 # Retrieval & quality metrics
-├── ingestion_metrics.py       # Ingestion-time cost metrics
+├── metrics.py                 # Runtime metrics
+├── ingestion_metrics.py       # Ingestion cost & timing
 ├── token_utils.py             # Token & cost estimation
-├── logger.py                  # Structured logs
-├── main.py                    # CLI-based RAG execution
-├── app.py               # ANN & cost control dashboard
+├── logger.py                  # Structured logging
+├── main.py                    # CLI execution
+├── app.py                     # Streamlit dashboard
 ├── requirements.txt
 └── README.md
+
 ```
 
 ---
 
-## 🧠 Core Design Principle
+## Core Design Principle
 
 > **Control retrieval quality before paying for generation.**
 
@@ -60,7 +63,7 @@ ANN parameters are tuned **before** LLM calls to:
 
 ---
 
-## 🔍 ANN Parameters Controlled
+##  ANN Parameters Controlled
 
 Typical ANN parameters exposed in this system (varies by index type):
 
@@ -81,7 +84,7 @@ These parameters directly impact:
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ```bash
 git clone https://github.com/Manuhd/RAG.git
@@ -120,7 +123,7 @@ Query-time flow:
 
 ---
 
-## 📊 Step 3: ANN & Cost Control Dashboard
+##  Step 3: ANN & Cost Control Dashboard
 
 ```bash
 py streamlit run app.py
@@ -142,7 +145,7 @@ http://localhost:8501
 
 ---
 
-## 🧪 Hallucination Control Strategy
+## Hallucination Control Strategy
 
 | Layer                | Role                         |
 | -------------------- | ---------------------------- |
@@ -154,7 +157,7 @@ http://localhost:8501
 
 ---
 
-## 🚀 Use Cases
+## Use Cases
 
 * Enterprise document search
 * Financial & compliance Q&A
