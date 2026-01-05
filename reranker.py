@@ -1,7 +1,7 @@
 from difflib import SequenceMatcher
 
 def rerank(query, docs):
-    docs = docs.copy()  # ✅ FIX: avoid SettingWithCopyWarning
+    docs = docs.copy()  # FIX: avoid SettingWithCopyWarning
 
     def score(text):
         return SequenceMatcher(None, query.lower(), text.lower()).ratio()
